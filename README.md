@@ -10,4 +10,4 @@ rokuro shows your systemstats like:
 - memory usaage
 - etc
 
-*rokuro uses [dashing](https://github.com/Shopify/dashing)
+_rokuro uses [dashing](https://github.com/Shopify/dashing)_
