@@ -1,6 +1,10 @@
 rokuro
 ======
 
+Beta
+----
+rokuro is in early, really early development. Not ready for use, at all.
+
 About
 -----
 rokuro shows your systemstats like:
