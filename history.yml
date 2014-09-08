@@ -1,16 +1,25 @@
 ---
 convergence: |+
-  data: {"points":[{"x":45,"y":2},{"x":46,"y":10},{"x":47,"y":37},{"x":48,"y":42},{"x":49,"y":49},{"x":50,"y":25},{"x":51,"y":43},{"x":52,"y":6},{"x":53,"y":40},{"x":54,"y":27}],"id":"convergence","updatedAt":1409256512}
+  data: {"points":[{"x":1277,"y":35},{"x":1278,"y":44},{"x":1279,"y":0},{"x":1280,"y":47},{"x":1281,"y":4},{"x":1282,"y":5},{"x":1283,"y":0},{"x":1284,"y":34},{"x":1285,"y":13},{"x":1286,"y":37}],"id":"convergence","updatedAt":1410191994}
 
 valuation: |+
-  data: {"current":45,"last":24,"id":"valuation","updatedAt":1409256513}
+  data: {"current":61,"last":74,"id":"valuation","updatedAt":1410191995}
 
 karma: |+
-  data: {"current":158537,"last":28271,"id":"karma","updatedAt":1409256513}
+  data: {"current":45168,"last":76646,"id":"karma","updatedAt":1410191995}
 
 synergy: |+
-  data: {"value":1,"id":"synergy","updatedAt":1409256513}
+  data: {"value":37,"id":"synergy","updatedAt":1410191995}
 
 buzzwords: |+
-  data: {"items":[{"label":"Paradigm shift","value":6},{"label":"Streamlininess","value":6},{"label":"Synergy","value":10},{"label":"Leverage","value":5},{"label":"Enterprise","value":5},{"label":"Pivoting","value":2},{"label":"Web 2.0","value":3},{"label":"Exit strategy","value":4},{"label":"Turn-key","value":3}],"id":"buzzwords","updatedAt":1409256513}
+  data: {"items":[{"label":"Exit strategy","value":7},{"label":"Pivoting","value":7},{"label":"Web 2.0","value":15},{"label":"Enterprise","value":21},{"label":"Turn-key","value":13},{"label":"Paradigm shift","value":4},{"label":"Synergy","value":4},{"label":"Leverage","value":11},{"label":"Streamlininess","value":24}],"id":"buzzwords","updatedAt":1410191995}
+
+widget_id: |+
+  data: {"id":"widget_id","updatedAt":1410185380}
+
+diskuseage: |+
+  data: {"value":7,"id":"diskuseage","updatedAt":1410191963}
+
+memuse: |+
+  data: {"current":37,"last":37,"id":"memuse","updatedAt":1410191993}
 
